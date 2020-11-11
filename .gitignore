@@ -1,0 +1,19 @@
+# Environments
+wfm/.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+/.idea
+/.vscode
+
+# files
+/static_collected
+/media
+
+# Database
+db.sqlite3
